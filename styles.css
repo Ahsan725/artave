@@ -216,6 +216,18 @@ header.sticky{
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding-top: 24px;
+    padding-top: 24px;   
+}
+.stars i{
+    color: var(--main-color);
+    font-size: 20px;
+}
+.location{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.location p{
     
 }
