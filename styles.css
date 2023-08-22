@@ -258,4 +258,6 @@ header.sticky{
     object-fit: cover;
     border-radius: 15px;
     filter: brightness(80%);
+    transition: all .3s cubic-bezier(.445,.05,.55,.95);
+    will-change: filter;
 }
