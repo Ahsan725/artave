@@ -240,3 +240,11 @@ header.sticky{
     /* filter: brightness(100%) hue-rotate(45deg); */
     transform: scale(1.2);
 }
+
+.destination-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, auto));
+    grid-gap: 2rem;
+    align-items: center;
+    margin-top: 5rem;
+}
