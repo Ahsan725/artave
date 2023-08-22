@@ -272,5 +272,13 @@ header.sticky{
     color: var(--bg-color);
     left: 15px;
     bottom: 60px;
+}
 
+.col-content p{
+    position: absolute;
+    font-size: 15px;
+    color: var(--bg-color);
+    left: 15px;
+    bottom: 30px;
+    letter-spacing: 2px;
 }
