@@ -79,4 +79,7 @@ section{
     width: 100%;
     height: 100vh;
     background: url(pawel-czerwinski-Qiy4hr18aGs-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    display: grid;
 }
