@@ -210,3 +210,12 @@ header.sticky{
     top: 36px;
     right: 40px;
 }
+
+.dest-content{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 24px;
+    
+}
