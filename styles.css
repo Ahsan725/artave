@@ -189,3 +189,9 @@ header.sticky{
     text-align: center;
     margin-top: 5rem;
 }
+.thum{
+    position: relative;
+    transition: all .3s cubic-bezier(.445,.05,.55,.95);
+    will-change: filter;
+    cursor: pointer;
+}
