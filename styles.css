@@ -255,8 +255,9 @@ header.sticky{
 }
 .col-content img{
     width: 100%;
-    max-width: 400px;
-    max-height: 500px;
+    height: 100%;
+    max-width: 450px;
+    max-height: 562px;
     object-fit: cover;
     border-radius: 15px;
     filter: brightness(80%);
