@@ -282,3 +282,7 @@ header.sticky{
     bottom: 30px;
     letter-spacing: 2px;
 }
+.col-content img:hover{
+    transform: scale(1.08);
+    cursor: pointer;
+}
