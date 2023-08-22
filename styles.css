@@ -229,5 +229,10 @@ header.sticky{
 }
 
 .location p{
-    
+    font-size: 15px;
+    color: var(--second-color);
+}
+
+.thum:hover{
+    filter: brightness(100);
 }
