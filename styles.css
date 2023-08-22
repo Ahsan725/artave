@@ -41,14 +41,14 @@ header{
     font-size: 35px;
     font-weight: 600;
     letter-spacing: 1px;
-    color: var(--text-color);
+    color: var(--bg-color);
 }
 
 .navbar{
     display: flex;
 }
 .navbar a{
-    color: var(--text-color);
+    color: var(--bg-color);
     font-size: var(--p-font);
     font-weight: 500;
     padding: 10px 22px;
@@ -68,4 +68,15 @@ header{
    z-index: 10001;
    cursor: pointer; 
    display: none;
+}
+
+section{
+    padding: 80px 18%;
+}
+
+.home{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url(pawel-czerwinski-Qiy4hr18aGs-unsplash.jpg);
 }
