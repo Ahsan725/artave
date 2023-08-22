@@ -94,3 +94,10 @@ section{
     letter-spacing: 4px;
     margin-bottom: 20px;
 }
+.home-text p{
+    color: #ffffffbf;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 38px;
+    margin-bottom: 50px;
+}
