@@ -199,5 +199,14 @@ header.sticky{
 .thum img{
     width: 100%;
     height: auto;
+}
 
+.thum h3{
+    position: absolute;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: right;
+    color: var(--bg-color);
+    top: 36px;
+    right: 40px;
 }
