@@ -234,5 +234,6 @@ header.sticky{
 }
 
 .thum:hover{
-    filter: brightness(100);
+    /* filter: brightness(100%) hue-rotate(45deg); */
+    transform: scale(1.2);
 }
