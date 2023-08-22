@@ -158,3 +158,9 @@ header.sticky{
     margin-bottom: 15px;
     cursor: pointer;
 }
+
+.container-box h4{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
