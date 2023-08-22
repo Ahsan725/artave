@@ -195,3 +195,9 @@ header.sticky{
     will-change: filter;
     cursor: pointer;
 }
+
+.thum img{
+    width: 100%;
+    height: auto;
+
+}
