@@ -43,3 +43,15 @@ header{
     letter-spacing: 1px;
     color: var(--text-color);
 }
+
+.navbar{
+    display: flex;
+}
+.navbar a{
+    color: var(--text-color);
+    font-size: var(--p-font);
+    font-weight: 500;
+    padding: 10px 22px;
+    border-radius: 4px;
+    transition: ease .40s;
+}
