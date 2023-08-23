@@ -294,3 +294,14 @@ header.sticky{
     cursor: pointer;
     opacity: 100%;
 }
+
+@media (max-width: 1400px){
+    header{
+        padding: 17px 3%;
+        transition: .6s;
+    }
+    header.sticky{
+        padding: 10px 3%;
+        transition: .6s;
+    }
+}
