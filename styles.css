@@ -141,6 +141,11 @@ header.sticky{
     text-align: center;
     margin-top: 5rem;
 }
+/* .container{
+    background: url(efe-kurnaz-RnCPiXixooY-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+} */
 .container-box{
     background: var(--bg-color);
     border: 1px solid #f0eded;
