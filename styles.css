@@ -320,7 +320,7 @@ header.sticky{
     #menu-icon{
         display: block;
     }
-    .stick #menu-icon{
+    .sticky #menu-icon{
         color: var(--text-color);
     }
     .home{
@@ -338,6 +338,7 @@ header.sticky{
         align-items: center;
         padding: 15px 30px;
         transition: .6s all;
+        opacity: 90%;
     }
     .navbar a{
         display: block;
