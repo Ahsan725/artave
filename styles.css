@@ -343,4 +343,10 @@ header.sticky{
         display: block;
         margin: 1.2rem 0;
     }
+    .sticky .navbar a{
+        color: var(--bg-color);
+    }
+    .navbar a:hover{
+        color: var(--text-color);
+    }
 }
