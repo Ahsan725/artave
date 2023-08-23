@@ -250,7 +250,7 @@ header.sticky{
 
 .destination-content{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(340px, auto));
     grid-gap: 2rem;
     align-items: center;
     margin-top: 5rem;
@@ -269,6 +269,7 @@ header.sticky{
     filter: brightness(80%);
     transition: all .3s cubic-bezier(.445,.05,.55,.95);
     will-change: filter;
+    opacity: 87%;
 }
 
 .col-content h5{
@@ -291,4 +292,5 @@ header.sticky{
 .col-content img:hover{
     transform: scale(1.08);
     cursor: pointer;
+    opacity: 100%;
 }
