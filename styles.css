@@ -353,6 +353,21 @@ header.sticky{
         right: 0;
     }
     .list{
+        width: 50%;
+        margin-bottom: 12px;
+    }
+}
+
+@media (max-width: 575px){
+    .list{
+        width: 100%;
+    }
+    :root{
+        --big-font: 3.8rem;
+        --h2-font: 1.8rem;
+        transition: .6s;
+    }
+    .text{
         
     }
 }
