@@ -326,4 +326,14 @@ header.sticky{
     .home{
         height: 88vh;
     }
+    .navbar{
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 270px;
+        height: 120vh;
+        background: #1067cc;
+        display: flex;
+        flex-direction: column;
+    }
 }
