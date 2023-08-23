@@ -315,3 +315,15 @@ header.sticky{
         transition: .6s;
     }
 }
+
+@media (max-width: 1040px){
+    #menu-icon{
+        display: block;
+    }
+    .stick #menu-icon{
+        color: var(--text-color);
+    }
+    .home{
+        height: 88vh;
+    }
+}
