@@ -335,5 +335,12 @@ header.sticky{
         background: #1067cc;
         display: flex;
         flex-direction: column;
+        align-items: center;
+        padding: 15px 30px;
+        transition: .6s all;
+    }
+    .navbar a{
+        display: block;
+        margin: 1.2rem 0;
     }
 }
