@@ -329,7 +329,7 @@ header.sticky{
     .navbar{
         position: absolute;
         top: 0;
-        right: 0;
+        right: -100%;
         width: 270px;
         height: 120vh;
         background: #1067cc;
@@ -348,5 +348,11 @@ header.sticky{
     }
     .navbar a:hover{
         color: var(--text-color);
+    }
+    .open{
+        right: 0;
+    }
+    .list{
+        
     }
 }
