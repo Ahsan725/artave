@@ -11,3 +11,8 @@ menu.onclick = () => {
     menu.classList.toggle('bx-x');
     navbar.classList.toggle('open');
 };
+
+window.onscroll = () => {
+    menu.classList.toggle('bx-x');
+    navbar.classList.toggle('open');
+};
