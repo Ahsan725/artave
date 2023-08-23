@@ -304,4 +304,14 @@ header.sticky{
         padding: 10px 3%;
         transition: .6s;
     }
+    section{
+        padding: 80px 3%;
+        transition: .6s;
+    }
+    :root{
+        --big-font: 4.5rem;
+        --h2-font: 2.3rem;
+        --p-font: 1rem;
+        transition: .6s;
+    }
 }
