@@ -417,3 +417,15 @@ form{
     grid-template-columns: 15% 85%;
     padding: 0 .4rem;
 }
+
+.input-field i{
+    text-align: center;
+    line-height: 55px;
+    color: #acacac;
+    /* transition: .5s; */
+    font-size: 1.1rem;
+}
+
+.input-field input{
+    
+}
