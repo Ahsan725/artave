@@ -399,6 +399,7 @@ header.sticky{
     top: -10%;
     right: 48%;
     transform: translateY(-50%);
+    z-index: 6;
 }
 
 .forms-container{
@@ -417,6 +418,7 @@ header.sticky{
     width: 50%;
     display: grid;
     grid-template-columns: 1fr;
+    z-index: 5;
 }
 
 form{
@@ -514,6 +516,7 @@ form.sign-up-form{
     align-items: flex-end;
     justify-content: space-around;
     text-align: center;
+    z-index: 7;
 }
 
 .left-panel{
@@ -544,8 +547,14 @@ form.sign-up-form{
     border: 2px solid #fff;
     width: 130px;
     height: 41px;
+    font-weight: 600;
+    font-size: 0.8rem;
 }
 
 .image{
     width: 100%;
+}
+
+.right-panel .content, .right-panel .image{
+    transform: translateX(800px);
 }
