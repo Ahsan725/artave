@@ -381,5 +381,9 @@ header.sticky{
 
 
 .container2{
-    
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--bg-color);
+    overflow: hidden;
 }
