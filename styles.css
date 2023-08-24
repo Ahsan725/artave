@@ -514,6 +514,11 @@ form.sign-up-form{
     align-items: flex-end;
 }
 
+.left-panel{
+    padding: 3rem 17% 2rem 12%;
+}
+
+
 .image{
     width: 100%;
 }
