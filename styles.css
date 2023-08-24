@@ -396,6 +396,17 @@ header.sticky{
     top: 0;
     left: 0;
 }
+
+.signin-signup{
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
 form{
     display: flex;
     align-items: center;
