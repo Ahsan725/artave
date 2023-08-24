@@ -508,6 +508,12 @@ form.sign-up-form{
     grid-template-columns: repeat(2, 1fr);
 }
 
+.panel{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
 .image{
     width: 100%;
 }
