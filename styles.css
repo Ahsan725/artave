@@ -533,6 +533,11 @@ form.sign-up-form{
     font-size: 1.5rem;
 }
 
+.panel p{
+    font-size: 0.95rem;
+    padding: 0.7rem 0;
+}
+
 .image{
     width: 100%;
 }
