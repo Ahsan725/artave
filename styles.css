@@ -520,9 +520,11 @@ form.sign-up-form{
 }
 
 .left-panel{
+    pointer-events: all;
     padding: 3rem 17% 2rem 12%;
 }
 .right-panel{
+    pointer-events: none;
     padding: 3rem 12% 2rem 17%;
 }
 
