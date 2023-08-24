@@ -13,6 +13,7 @@
     --text-color: #221314;
     --second-color: #5a7184;
     --main-color: #6e54fa;
+    --accent-color: #917ff4;
     --big-font: 6rem;
     --h2-font: 3rem;
     --p-font: 1.1rem;
@@ -447,10 +448,14 @@ form{
     outline: none;
     border-radius: 49px;
     cursor: pointer;
-    background-color: var(--main-color);
+    background-color: var(--accent-color);
     color: var(--bg-color);
     text-transform: uppercase;
     font-weight: 600;
     margin: 10px 0;
     transition: .6s;
+}
+.btn:hover{
+    background-color: var(--main-color);
+    scale: 1.1;
 }
