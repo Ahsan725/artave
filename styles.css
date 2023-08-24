@@ -389,13 +389,13 @@ header.sticky{
     overflow: hidden;
 }
 
-.forms-container{
+/* .forms-container{
     position: absolute;
     width: 100%;
     height: 100%;
     top: 0;
     left: 0;
-}
+} */
 form{
     display: flex;
     align-items: center;
