@@ -440,3 +440,17 @@ form{
     color: #aaa;
     font-weight: 500;
 }
+.btn{
+    width: 150px;
+    height: 49px;
+    border: none;
+    outline: none;
+    border-radius: 49px;
+    cursor: pointer;
+    background-color: var(--main-color);
+    color: var(--bg-color);
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 10px 0;
+    transition: .6s;
+}
