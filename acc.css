@@ -10,7 +10,11 @@ body,
 input {
   font-family: 'Playfair Display', serif;
 }
+a{
+  text-decoration: none;
+  color: white;
 
+}
 .container {
   position: relative;
   width: 100%;
@@ -190,7 +194,7 @@ form.sign-in-form {
 }
 
 .btn.transparent {
-  margin: 0;
+  margin: 0.4rem;
   background: none;
   border: 2px solid #fff;
   width: 130px;
