@@ -94,13 +94,15 @@ section{
     /* font-family: 'Paytone One', sans-serif; */
     letter-spacing: 4px;
     margin-bottom: 20px;
+    text-shadow: 5px 9px 9px black;
 }
 .home-text p{
-    color: #ffffffbf;
+    color: white;
     font-size: 20px;
     font-weight: 400;
     line-height: 38px;
     margin-bottom: 50px;
+    text-shadow: 1px 10px 10px black;
 }
 .home-btn{
     display: inline-block;
